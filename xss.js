@@ -1,1 +1,1 @@
-alert('XSS via nonce reuse')
+alert('simple xss')
