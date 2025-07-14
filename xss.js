@@ -1,1 +1,1 @@
-alert('simple xss')
+alert(document.cookie)
